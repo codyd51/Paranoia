@@ -1,0 +1,6 @@
+.git
+*.deb
+.theos
+theos/
+obj/
+_/
